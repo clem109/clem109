@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{113:function(e,n,o){"use strict";o.r(n),n.default={title:"Clement Venard - Software Engineer",description:"I’m a Software Engineer based in London."}}}]);
